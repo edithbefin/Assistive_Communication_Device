@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\befin\\Documents\\Main_Project\\arduino_bluetooth-main\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\befin\\.gradle\\caches\\transforms-2\\files-2.1\\8297e6a55e1232138647363a45a4a0a7\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\befin\\Documents\\Main_Project\\arduino_bluetooth-main\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\befin\\.gradle\\caches\\transforms-2\\files-2.1\\8297e6a55e1232138647363a45a4a0a7\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\befin\\Documents\\Main_Project\\arduino_bluetooth-main\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\befin\\.gradle\\caches\\transforms-2\\files-2.1\\8297e6a55e1232138647363a45a4a0a7\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\befin\\Documents\\Main_Project\\arduino_bluetooth-main\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\befin\\.gradle\\caches\\transforms-2\\files-2.1\\8297e6a55e1232138647363a45a4a0a7\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\befin\\Documents\\Main_Project\\arduino_bluetooth-main\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\befin\\.gradle\\caches\\transforms-2\\files-2.1\\8297e6a55e1232138647363a45a4a0a7\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\befin\\Documents\\Main_Project\\arduino_bluetooth-main\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\befin\\.gradle\\caches\\transforms-2\\files-2.1\\8297e6a55e1232138647363a45a4a0a7\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    }
+]

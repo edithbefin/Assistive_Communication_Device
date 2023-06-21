@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:1:1-37:12
+MERGED from [:text_to_speech] C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\build\text_to_speech\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_bluetooth_serial] C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-12:12
+MERGED from [:integration_test] C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\build\integration_test\intermediates\library_manifest\debug\AndroidManifest.xml:7:1-12:12
+MERGED from [:path_provider_android] C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\a03923e19d57df2f0795c85df55b8a35\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\ff3ae0a7e60c164a7cd5a6836a62c43d\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\deb75f9d88d94d8fc5677527ffd25377\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:rules:1.2.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\566ac2d2c84a76bcbde94f9c905a46c0\rules-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\ae89f4aaf1b06215f3856c26830205c4\espresso-core-3.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:runner:1.2.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\af1c66712b51c4d9ff16af6ab377952c\runner-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\716c513b17e6c2f4afb47d4071e42336\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\1b8b038552d27888c507bfb44a1f7837\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\52e756152fb243fb593fb81434319fab\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\f46b7d79e5c363d95e9d620345d93d86\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\3394b741e0aab1013565c984e6aff4ae\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\7f3649525791292b567b2a5691d8232b\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\426bee58ceb2c48c8350acc000ffa0c9\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\5b1491e70185ccac41e88d4fcf5b5680\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\9f7c0131f30187e25bb0df51ab2e8b02\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\7620aaf763a79b2e5dac0de6950c0242\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\8297e6a55e1232138647363a45a4a0a7\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\a1fa2ee97bd65245c0f14279447cfb02\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\4c88c1bca29ce9d8ebd77338f2befc42\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\d299da35cbe0a46dbdb71efaaee64e71\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\60f906da3aa48cbe2c3375edce5d0283\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\85becb1e7141e48bf08823f3315e6d47\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:monitor:1.2.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\24792230a38f2092d2ec2525accfbb68\monitor-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\0ba81ff7dc9e40c0fe093fd94c171325\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\747915c936d5ca9b2dda526f3d2990d4\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\8ab2eb5d742b2c89e14c70deb8208047\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\92c425488ba9e2662d7142a38f5d3c0e\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\2d89e0c16577410b2f34cd399e1c5211\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\905c11fd7c9737d3091b28b90d2a8f15\espresso-idling-resource-3.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\14750921a94215e802780068d7457718\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:1:1-37:12
+	package
+		ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:2:5-63
+		INJECTED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:1:1-37:12
+		INJECTED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:1:1-37:12
+		INJECTED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:8:22-64
+queries
+ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:9:5-13:15
+intent#action:name:android.intent.action.TTS_SERVICE
+ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:10:5-12:14
+action#android.intent.action.TTS_SERVICE
+ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:11:7-66
+	android:name
+		ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:11:15-63
+application
+ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:20:5-36:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\ff3ae0a7e60c164a7cd5a6836a62c43d\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\ff3ae0a7e60c164a7cd5a6836a62c43d\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\8297e6a55e1232138647363a45a4a0a7\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\8297e6a55e1232138647363a45a4a0a7\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\0ba81ff7dc9e40c0fe093fd94c171325\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\0ba81ff7dc9e40c0fe093fd94c171325\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\8297e6a55e1232138647363a45a4a0a7\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:21:9-57
+	android:icon
+		ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:22:9-43
+activity#io.flutter.embedding.android.FlutterActivity
+ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:23:9-34:20
+	android:launchMode
+		ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:25:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:28:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:29:13-55
+	android:configChanges
+		ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:27:13-137
+	android:theme
+		ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:26:13-47
+	android:name
+		ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:24:13-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:32:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:35:9-72
+	android:value
+		ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:35:52-69
+	android:name
+		ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml:35:20-51
+uses-sdk
+INJECTED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml
+MERGED from [:text_to_speech] C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\build\text_to_speech\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:text_to_speech] C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\build\text_to_speech\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_bluetooth_serial] C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_bluetooth_serial] C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:integration_test] C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\build\integration_test\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-44
+MERGED from [:integration_test] C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\build\integration_test\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-44
+MERGED from [:path_provider_android] C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\a03923e19d57df2f0795c85df55b8a35\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\a03923e19d57df2f0795c85df55b8a35\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\ff3ae0a7e60c164a7cd5a6836a62c43d\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\ff3ae0a7e60c164a7cd5a6836a62c43d\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\deb75f9d88d94d8fc5677527ffd25377\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\deb75f9d88d94d8fc5677527ffd25377\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:rules:1.2.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\566ac2d2c84a76bcbde94f9c905a46c0\rules-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:rules:1.2.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\566ac2d2c84a76bcbde94f9c905a46c0\rules-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\ae89f4aaf1b06215f3856c26830205c4\espresso-core-3.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\ae89f4aaf1b06215f3856c26830205c4\espresso-core-3.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\af1c66712b51c4d9ff16af6ab377952c\runner-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\af1c66712b51c4d9ff16af6ab377952c\runner-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\716c513b17e6c2f4afb47d4071e42336\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\716c513b17e6c2f4afb47d4071e42336\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\1b8b038552d27888c507bfb44a1f7837\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\1b8b038552d27888c507bfb44a1f7837\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\52e756152fb243fb593fb81434319fab\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\52e756152fb243fb593fb81434319fab\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\f46b7d79e5c363d95e9d620345d93d86\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\f46b7d79e5c363d95e9d620345d93d86\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\3394b741e0aab1013565c984e6aff4ae\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\3394b741e0aab1013565c984e6aff4ae\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\7f3649525791292b567b2a5691d8232b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\7f3649525791292b567b2a5691d8232b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\426bee58ceb2c48c8350acc000ffa0c9\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\426bee58ceb2c48c8350acc000ffa0c9\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\5b1491e70185ccac41e88d4fcf5b5680\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\5b1491e70185ccac41e88d4fcf5b5680\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\9f7c0131f30187e25bb0df51ab2e8b02\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\9f7c0131f30187e25bb0df51ab2e8b02\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\7620aaf763a79b2e5dac0de6950c0242\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\7620aaf763a79b2e5dac0de6950c0242\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\8297e6a55e1232138647363a45a4a0a7\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\8297e6a55e1232138647363a45a4a0a7\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\a1fa2ee97bd65245c0f14279447cfb02\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\a1fa2ee97bd65245c0f14279447cfb02\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\4c88c1bca29ce9d8ebd77338f2befc42\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\4c88c1bca29ce9d8ebd77338f2befc42\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\d299da35cbe0a46dbdb71efaaee64e71\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\d299da35cbe0a46dbdb71efaaee64e71\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\60f906da3aa48cbe2c3375edce5d0283\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\60f906da3aa48cbe2c3375edce5d0283\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\85becb1e7141e48bf08823f3315e6d47\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\85becb1e7141e48bf08823f3315e6d47\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\24792230a38f2092d2ec2525accfbb68\monitor-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\24792230a38f2092d2ec2525accfbb68\monitor-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\0ba81ff7dc9e40c0fe093fd94c171325\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\0ba81ff7dc9e40c0fe093fd94c171325\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\747915c936d5ca9b2dda526f3d2990d4\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\747915c936d5ca9b2dda526f3d2990d4\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\8ab2eb5d742b2c89e14c70deb8208047\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\8ab2eb5d742b2c89e14c70deb8208047\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\92c425488ba9e2662d7142a38f5d3c0e\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\92c425488ba9e2662d7142a38f5d3c0e\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\2d89e0c16577410b2f34cd399e1c5211\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\2d89e0c16577410b2f34cd399e1c5211\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\905c11fd7c9737d3091b28b90d2a8f15\espresso-idling-resource-3.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\905c11fd7c9737d3091b28b90d2a8f15\espresso-idling-resource-3.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\14750921a94215e802780068d7457718\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\14750921a94215e802780068d7457718\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:flutter_bluetooth_serial] C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from [:flutter_bluetooth_serial] C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:flutter_bluetooth_serial] C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from [:flutter_bluetooth_serial] C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:flutter_bluetooth_serial] C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:flutter_bluetooth_serial] C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:flutter_bluetooth_serial] C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [:flutter_bluetooth_serial] C:\Users\befin\Documents\Main_Project\arduino_bluetooth-main\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-76
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\ff3ae0a7e60c164a7cd5a6836a62c43d\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\ff3ae0a7e60c164a7cd5a6836a62c43d\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\ff3ae0a7e60c164a7cd5a6836a62c43d\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\ff3ae0a7e60c164a7cd5a6836a62c43d\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\ff3ae0a7e60c164a7cd5a6836a62c43d\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\befin\.gradle\caches\transforms-2\files-2.1\ff3ae0a7e60c164a7cd5a6836a62c43d\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
