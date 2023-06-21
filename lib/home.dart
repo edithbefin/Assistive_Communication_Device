@@ -358,7 +358,6 @@ class _HomeState extends State<Home> {
                             width: double.infinity,
                             height: 100,
                             decoration: BoxDecoration(
-                                // color: Colors.white,
                                 borderRadius: BorderRadius.circular(15),
                                 boxShadow: [
                                   BoxShadow(
